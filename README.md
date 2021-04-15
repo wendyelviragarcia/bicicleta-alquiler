@@ -1,4 +1,4 @@
-# bicicleta-alquiler
+# ¿Bicicleta o alquiler? Ambigüedad en fonética acústica
 
 ¿Vuestros alumnos os han preguntado ya por la bicicleta y el alquiler? Es el remake de lo de yanny y laurel. Aquí os dejo el espectrograma, los archivos por si lo queréis enseñar en clase y un poco de explicación.
 
