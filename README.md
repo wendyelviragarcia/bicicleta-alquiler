@@ -14,4 +14,4 @@ La siguiente opción sería entre "gle" y "que". Y otra vez estamos en las misma
 
 Y la última diferencia, entre la vibrante simple ("r"), que en español puede ser una aproximante o lo que le plazca... Y la /t/ que está articulada como [d] porque ya sabéis en español la sonorización de oclusivas nos encanta.
 
-[!image]bicicleta.png
+[!image](bicicleta.png)
