@@ -13,3 +13,5 @@ Entre la opción de /s/ y /k/, ¿cómo saberlo? El audio tiene tanto ruido que d
 La siguiente opción sería entre "gle" y "que". Y otra vez estamos en las mismas, la aproximante es tan breve que su bajada de intensidad resulta casi imperceptible, y en ese caso nos quedamos solo con "le"
 
 Y la última diferencia, entre la vibrante simple ("r"), que en español puede ser una aproximante o lo que le plazca... Y la /t/ que está articulada como [d] porque ya sabéis en español la sonorización de oclusivas nos encanta.
+
+[!image]bicicleta.png
