@@ -2,7 +2,7 @@
 
 ¿Vuestros alumnos os han preguntado ya por la bicicleta y el alquiler? Es el remake de lo de yanny y laurel. Aquí os dejo el espectrograma, los archivos por si lo queréis enseñar en clase y un poco de explicación.
 
-Los archivos se tienen que abrir con el programa Praat (es gratuito).
+Los archivos se tienen que abrir con el programa [Praat](https://www.fon.hum.uva.nl/praat/) (es gratuito).
 
 ## ¿Por qué?
 
