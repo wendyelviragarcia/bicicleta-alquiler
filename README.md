@@ -14,5 +14,7 @@ La siguiente opción sería entre "gle" y "que". Y otra vez estamos en las misma
 
 Y la última diferencia, entre la vibrante simple ("r"), que en español puede ser una aproximante o lo que le plazca... Y la /t/ que está articulada como [d] porque ya sabéis en español la sonorización de oclusivas nos encanta.
 
+Una vez dicho esto, yo creo que el original es bicicleta y por todo lo dicho arriba nuestro cerebro puede reponer cualquiera de las dos palabras porque las dos encajan fonéticamente, pero sobre todo léxicamente. Y es que la percepción no es lo que oímos, a mí me gusta bromear en clase y decir que la percepción en el fondo nos la inventamos.
+
 ![image](bicicleta.png)
 
